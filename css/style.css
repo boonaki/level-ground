@@ -353,6 +353,34 @@ footer a img{
 #hireBody p{
   margin-bottom: 5%;
 }
+
+/*****************SIDEBAR*******************/
+
+#navigation{
+  position: fixed;
+  width: 100%;
+  background: slategray;
+  height: 100%;
+  transition: 0.5s;
+  font-weight: bold;
+  display: none;
+}
+
+#navigation ul{
+  margin-top: 100px;
+}
+
+#navigation ul li{
+  margin: 10% 5%;
+  padding-bottom: 5%;
+  border-bottom: 1px solid white;
+  list-style: none;
+}
+#navigation.active{
+  display: block;
+}
+
+
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
