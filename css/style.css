@@ -185,11 +185,14 @@ h1 + p + span{
   text-align: center;
   padding: 7% 25%;
 }
-
 h2{
   font-family: 'Barlow Condensed', 'sans-serif';
   font-size: 58px;
+  line-height: 60px;
+}
 
+.section2 h2 + p{
+  padding-top: 40px;
 }
 
 .section2 p, h2 + p{
