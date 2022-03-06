@@ -477,4 +477,20 @@ footer a img{
     padding-bottom: 10%;
   }
 
+  #classBody{
+    height: 750px;
+  }
+  #classBody p{
+    font-size: 17px;
+  }
+}
+
+@media screen and (max-width: 420px){
+  #classBody{
+    height: 850px;
+  }
+  .button{
+    padding: 7px 25%;
+    font-size: 15px;
+  }
 }
