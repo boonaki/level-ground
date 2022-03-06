@@ -188,7 +188,7 @@ h1 + p + span{
 h2{
   font-family: 'Barlow Condensed', 'sans-serif';
   font-size: 58px;
-  line-height: 60px;
+  line-height: 50px;
 }
 
 .section2 h2 + p{
