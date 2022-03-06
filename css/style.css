@@ -421,7 +421,7 @@ footer a img{
   }
 }
 
-@media screen and (max-width: 710px){
+@media screen and (max-width: 715px){
   img[src="graysquare.jpg"]{
     height: 120px;
     width: 200px;
